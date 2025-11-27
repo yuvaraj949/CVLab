@@ -1,0 +1,3 @@
+Image 1: No. The object is a fox, identified by its fur, facial features.
+Image 2: No. This is a cup of coffee, visually recognized by the cylindrical shape.
+Image 3: No. This is a chair based on contours and usage scenario.

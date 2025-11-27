@@ -1,0 +1,4 @@
+The hardest task was detecting and labeling all people in crowded scenes, due to overlap and diversity in appearance. 
+Machine learning models could automate this by learning patterns from large datasets and applying them rapidly. 
+Manual analysis gave me insight into the complexity and variability present in real-world scenes, 
+highlighting the importance of robust algorithms.

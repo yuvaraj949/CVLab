@@ -1,0 +1,3 @@
+Nature.jpg: Nature. The scene has a lake, forests, and mountains with open sky, showing a natural, outdoor landscape.
+Indoor.jpg: Indoor. The image shows a furnished living space with decor, lamps, and a sofa, shwoing a indoor setting.
+Sports.jpg: Sports. The photo shows an athletic shoe with studio lighting, making it as sports-related.
